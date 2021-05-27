@@ -1,2 +1,2 @@
 # hello-world
-I am new to Github
+Hi friends. Github is amazing.I am going to learn Python with full interest and dedication.
